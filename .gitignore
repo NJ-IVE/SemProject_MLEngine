@@ -1,0 +1,30 @@
+# Jupyter-generated files
+.ipynb_checkpoints/
+__pycache__/
+
+# Downloaded datasets and extracted data must not be committed
+data/
+*.zip
+*.csv
+*.tsv
+
+# Private evidence and local working files
+evidence/
+private/
+work/
+*.pdf
+DELIVERABLE_*
+
+# Secrets and local environment files
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+
+# Common operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
