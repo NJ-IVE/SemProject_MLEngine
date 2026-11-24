@@ -24,6 +24,8 @@ It shows:
 - a dataframe named `df_sample`, made by combining the first 15 rows with the last 20 rows.
 
 
+The [Deliverable 2 Base notebook](LogisticRegression_Base.ipynb) combines Bradley's data and exploratory data analysis with Kate's feature work as presented. It was uploaded after the D2 deadline with the original cells and saved outputs intact.
+
 ## Dataset
 
 **Name:** Digital Matatus Nairobi GTFS, a public transport dataset containing matatu routes, stops, and scheduled times.
