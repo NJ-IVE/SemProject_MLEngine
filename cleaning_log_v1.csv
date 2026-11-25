@@ -1,0 +1,21 @@
+query_id,reason
+B004,status REJECTED
+B016,status REJECTED
+B036,status REJECTED
+B038,status REJECTED
+B039,status REJECTED
+B040,status REJECTED
+B044,status REJECTED
+B048,status REJECTED
+B056,status REJECTED
+K004,status REJECTED
+K040,status REJECTED
+K046,status REJECTED
+K052,status REJECTED
+K025,failed check: stop not in route/direction; 
+K026,failed check: stop not in route/direction; 
+K027,failed check: stop not in route/direction; 
+K029,failed check: stop not in route/direction; 
+K030,failed check: stop not in route/direction; 
+K031,failed check: stop not in route/direction; 
+K032,failed check: stop not in route/direction; 
